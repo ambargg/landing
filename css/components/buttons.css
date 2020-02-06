@@ -1,0 +1,31 @@
+.btn {
+  color: white;
+  padding: 16px 36px;
+  border-radius: 10px;
+  font-weight: lighter;
+  background-color: #FC5130;
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #DADFE1;
+  color: #262E40;
+
+}
+
+.btn-medium {
+background-color: white;
+color: #999999;
+border: 1px solid #999999;
+border-radius: 50px;
+padding: 15px 25px;
+opacity: 0.6;
+font-weight: lighter;
+}
+
+
+.btn-medium:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}
